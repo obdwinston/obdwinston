@@ -1,7 +1,7 @@
 ### 👋 Hello Winston, World Here!
 
 - 💻 Software engineer.
-- 📖 Refining skills to develop clean, efficient code with popular web development frameworks.
+- 📖 Refining skills to create clean, efficient code with popular web development frameworks.
 - 🥅 Goals for 2024:
   - To be exposed to as many languages and frameworks as possible.
   - To complete as many projects as possible to solidify what I've learnt.
