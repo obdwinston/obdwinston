@@ -1,6 +1,6 @@
 ### 👋 Hello Winston, World Here!
 
-- 💻 Aspirant software developer.
+- 💻 Aspirant web developer.
 - 📖 Refining skills to create clean, efficient code with popular web development frameworks.
 - 🥅 Goals for 2024:
   - To be exposed to as many languages and frameworks as possible.
