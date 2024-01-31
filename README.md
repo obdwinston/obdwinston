@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Hello World, Winston Here!
 
-<!--
-**obdwinston/obdwinston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Full stack developer.
+- ⚡ Fun facts about me:
+  - A Computational Fluid Dynamics enthusiast who codes numerical fluid simulations from scratch, for fun.
+  - Started my developer journey with Flutter and was intrigued by the ability to create viable yet aesthetic mobile applications.
+- 📫 Reach out to me at obdwinston@gmail.com.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 My Toolbox
+- Languages: HTML, CSS, JavaScript, Java, Python, Dart, Fortran  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,dart,fortran)](https://skillicons.dev)
+- Frontend: React, Redux, Bootstrap, Tailwind, Flutter  
+[![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,flutter)](https://skillicons.dev)
+- Backend: Node, Express, MongoDB, Firebase, PostgreSQL, MySQL  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres,mysql)](https://skillicons.dev)
+- Tools: Git, Postman  
+[![My Skills](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)
